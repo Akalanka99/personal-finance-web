@@ -7,12 +7,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDjbdBsDveKt4M461ovi-HzhDvBaEpr5gA",
-  authDomain: "finance-manager-3ea3d.firebaseapp.com",
-  projectId: "finance-manager-3ea3d",
-  storageBucket: "finance-manager-3ea3d.appspot.com",
-  messagingSenderId: "286844061510",
-  appId: "1:286844061510:web:7141384f6b69875ff9c747"
+  apiKey: "AIzaSyDtH5Y7htBTNdsjRSBSKbiucKG8maxRJto",
+  authDomain: "personal-finance-webapp.firebaseapp.com",
+  projectId: "personal-finance-webapp",
+  storageBucket: "personal-finance-webapp.firebasestorage.app",
+  messagingSenderId: "911707954596",
+  appId: "1:911707954596:web:09c754be29a2d34d703531",
+  measurementId: "G-N153RVVTXX"
 };
 
 // Initialize Firebase
